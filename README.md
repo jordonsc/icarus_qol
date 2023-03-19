@@ -22,6 +22,7 @@ mod are:
 * Remove restraints that force solo players to do a lot of back and forth
 
 
+
     ./compile degrind
 
 
@@ -80,6 +81,10 @@ The _Food_ mod tidies up some quirks in the kitchen.
 * Raw Meat can now also be crafted at the Kitchen Bench
 * Pills can now also be crafted at the Advanced Kitchen Bench
 * Cooked Meats can now be crafted at all stoves
+
+### Items:
+
+* Deep Freeze capacity doubled
 
 Compiling Mods
 ==============

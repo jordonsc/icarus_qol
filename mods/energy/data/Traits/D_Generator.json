@@ -1,7 +1,7 @@
 {
     "Rows": [
         {
-            "Name": "Basic_Biofuel_Energy_Generator",
+            "Name": "Kit_Generator_Energy_Generator",
             "GenerationRate": 15000
         },
         {
