@@ -21,10 +21,9 @@ mod are:
 * Reduce effort to get to T4
 * Remove restraints that force solo players to do a lot of back and forth
 
-
+To build just the `degrind` mod:
 
     ./compile degrind
-
 
 ### Recipes:
 
@@ -52,9 +51,7 @@ The _Energy_ mod is designed to address the lack of batteries, allowing you to s
 T4. These are intended to be temporary, they're certainly hacks but at current the power grid requires _all_ devices
 turned on at once, and there is no way to store power.
 
-
     ./compile energy
-
 
 ### Recipes:
 
@@ -72,9 +69,7 @@ Food
 ----
 The _Food_ mod tidies up some quirks in the kitchen.
 
-
     ./compile food
-
 
 ### Recipes:
 
@@ -106,7 +101,6 @@ Compiling Mods
 You can compile one, many or all mods with the same command:
 
     ./compile [modname] [modname..]
-
 
 The mods are generated in order, if there is a conflict, the last one on the list will overwrite the former. Currently
 there are no conflicts in included mods.
