@@ -1,0 +1,28 @@
+{
+    "Rows": [
+        {
+            "Name": "Health_Enhancement_Tonic",
+            "Modifier": {
+                "ModifierLifetime": 900
+            }
+        },
+        {
+            "Name": "Stamina_Enhancement_Tonic",
+            "Modifier": {
+                "ModifierLifetime": 900
+            }
+        },
+        {
+            "Name": "Sustenence_Enhancement_Tonic",
+            "Modifier": {
+                "ModifierLifetime": 900
+            }
+        },
+        {
+            "Name": "Strength_Enhancement_Tonic",
+            "Modifier": {
+                "ModifierLifetime": 900
+            }
+        }
+    ]
+}

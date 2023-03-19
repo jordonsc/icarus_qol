@@ -1,0 +1,56 @@
+{
+    "Rows": [
+        {
+            "Name": "Biofuel1",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Raw_Meat"
+                    },
+                    "Count": 1
+                },
+                {
+                    "Element": {
+                        "RowName": "Tree_Sap"
+                    },
+                    "~delete": true
+                }
+            ],
+            "ResourceOutputs": [
+                {
+                    "Type": "Fuel",
+                    "RequiredUnits": 500
+                }
+            ]
+        },
+        {
+            "Name": "Biofuel1a",
+            "RecipeSets": [
+                {
+                    "RowName": "Composter",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Spoiled_Meat",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [],
+            "ResourceOutputs": [
+                {
+                    "Type": "Fuel",
+                    "RequiredUnits": 500
+                }
+            ],
+            "Audio": {
+                "RowName": "Composter"
+            }
+        }
+    ]
+}

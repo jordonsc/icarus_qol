@@ -1,0 +1,301 @@
+{
+    "Rows": [
+        {
+            "Name": "Stone_Frame",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 2
+                }
+            ]
+        },
+        {
+            "Name": "Stone_Beam",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Name": "Stone_Floor",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Name": "Stone_Wall",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Name": "Stone_Halfpiece",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Name": "Stone_Half_Pitch",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Name": "Stone_Wall_Angled",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Name": "Stone_Ramp",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Name": "Stone_Roof_Corner",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather"
+                    },
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Name": "Concrete_Mix",
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Concrete_Mix"
+                    },
+                    "Count": 5
+                }
+            ]
+        },
+        {
+            "Name": "Steel_Rebar",
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Rebar"
+                    },
+                    "Count": 25
+                }
+            ]
+        },
+        {
+            "Name": "Electronics",
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Electronics"
+                    },
+                    "Count": 5
+                }
+            ]
+        },
+        {
+            "Name": "GreenTea_Drink",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "GreenTea"
+                    },
+                    "Count": 5
+                }
+            ]
+        },
+        {
+            "Name": "WildTea_Drink",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "WildTea"
+                    },
+                    "Count": 5
+                }
+            ]
+        },
+        {
+            "Name": "Cocoa_Drink",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Cocoa"
+                    },
+                    "Count": 5
+                }
+            ]
+        },
+        {
+            "Name": "Coffee_Drink",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Coffee"
+                    },
+                    "Count": 5
+                }
+            ]
+        },
+        {
+            "Name": "Epoxy_2",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Crushed_Bone"
+                    },
+                    "Count": 2
+                }
+            ]
+        },
+        {
+            "Name": "Crushed_Bone",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Bone"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Crushed_Bone",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MortarPestle"
+            }
+        },
+        {
+            "Name": "Portable_Beacon",
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "~delete": true
+                },
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Composites"
+                    },
+                    "~delete": true
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass"
+                    },
+                    "Count": 2
+                },
+                {
+                    "Element": {
+                        "RowName": "Electronics"
+                    },
+                    "Count": 2
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw"
+                    },
+                    "Count": 2
+                },
+                {
+                    "Element": {
+                        "RowName": "Refined_Copper"
+                    },
+                    "Count": 2
+                }
+            ]
+        },
+        {
+            "Name": "Workshop_Repair_Item",
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Composites",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Carbon_Fiber",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Meta_Repair_Item",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        }
+    ]
+}

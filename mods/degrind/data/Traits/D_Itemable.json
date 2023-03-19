@@ -1,0 +1,20 @@
+{
+    "Rows": [
+        {
+            "Name": "Item_Antibiotic_Pill",
+            "Weight": 25
+        },
+        {
+            "Name": "Item_Antiparastic_Pill",
+            "Weight": 25
+        },
+        {
+            "Name": "Item_Antipoison_Pill",
+            "Weight": 25
+        },
+        {
+            "Name": "Item_Blood_Thinning_Pill",
+            "Weight": 25
+        }
+    ]
+}

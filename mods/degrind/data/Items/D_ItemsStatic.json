@@ -1,0 +1,56 @@
+{
+    "Rows": [
+        {
+            "Name": "Radar_Biofuel",
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Audio.Shelter.Check"
+                    },
+                    {
+                        "TagName": "Item.Radar"
+                    }
+                ]
+            }
+        },
+        {
+            "Name": "Radar_Electric",
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Audio.Shelter.Check"
+                    },
+                    {
+                        "TagName": "Item.Radar"
+                    }
+                ]
+            }
+        },
+        {
+            "Name": "Extractor_Biofuel",
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Audio.Shelter.Check"
+                    },
+                    {
+                        "TagName": "Item.Extractor"
+                    }
+                ]
+            }
+        },
+        {
+            "Name": "Extractor_Electric",
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Audio.Shelter.Check"
+                    },
+                    {
+                        "TagName": "Item.Extractor"
+                    }
+                ]
+            }
+        }
+    ]
+}

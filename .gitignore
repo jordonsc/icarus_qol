@@ -1,0 +1,12 @@
+!.gitkeep
+
+# IDE & language
+.idea
+__pycache__
+.pyc
+
+# Icarus files
+.pak
+source/*
+build/*
+export
