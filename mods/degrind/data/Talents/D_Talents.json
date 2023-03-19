@@ -1,0 +1,26 @@
+{
+    "Rows": [
+        {
+            "Name": "Resources_Voxel_Instant",
+            "Rewards": [
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 10
+                    },
+                    "GrantedFlags": []
+                }
+            ]
+        },
+        {
+            "Name": "Resources_Instant_Tree",
+            "Rewards": [
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 25
+                    },
+                    "GrantedFlags": []
+                }
+            ]
+        }
+    ]
+}

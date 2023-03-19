@@ -10,6 +10,8 @@ matching_fields = [
 # This is important for fields that are glorified lists that you might remove elements from them.
 noindex_fields = [
     "GameplayTags",
+    "Rewards",
+    "RequiredTalents",
 ]
 
 # A special key, if it exists in a dict and the value matches, the element will be removed

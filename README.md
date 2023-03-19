@@ -45,6 +45,11 @@ To build just the `degrind` mod:
 * Reduced pill weight to 25g
 * Increased all tonic durations to 900s
 
+### Talents:
+
+* Lucky Strike (insta-mining) probability increased to 10%
+* Peerless Lumberjack (insta-tree) probability increased to 25%
+
 Energy
 ------
 The _Energy_ mod is designed to address the lack of batteries, allowing you to still maintain a decent power grid at
