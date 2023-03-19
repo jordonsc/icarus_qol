@@ -1,0 +1,16 @@
+{
+    "Rows": [
+        {
+            "Name": "SolarPanel",
+            "ResourceFlowRate": 10000
+        },
+        {
+            "Name": "WaterWheel_Generator",
+            "ResourceFlowRate": 5000
+        },
+        {
+            "Name": "Generator",
+            "ResourceFlowRate": 15000
+        }
+    ]
+}

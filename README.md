@@ -48,7 +48,8 @@ mod are:
 Energy
 ------
 The _Energy_ mod is designed to address the lack of batteries, allowing you to still maintain a decent power grid at
-T4.
+T4. These are intended to be temporary, they're certainly hacks but at current the power grid requires _all_ devices
+turned on at once, and there is no way to store power.
 
 
     ./compile energy
@@ -62,6 +63,9 @@ T4.
 ### Items:
 
 * Removed the clogging mechanic from Water Wheels
+* Increased Water Wheel power output to 5,000
+* Increased Solar Power output to 10,000
+* Increased Generator output to 15,000
 
 Food
 ----
