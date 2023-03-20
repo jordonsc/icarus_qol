@@ -5,7 +5,19 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 10
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 5
+                    },
+                    "GrantedFlags": []
+                },
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 15
+                    },
+                    "GrantedFlags": []
+                },
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 25
                     },
                     "GrantedFlags": []
                 }
@@ -14,6 +26,18 @@
         {
             "Name": "Resources_Instant_Tree",
             "Rewards": [
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 5
+                    },
+                    "GrantedFlags": []
+                },
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 15
+                    },
+                    "GrantedFlags": []
+                },
                 {
                     "GrantedStats": {
                         "(Value=\"BaseChanceToFellTreeInstantly_%\")": 25
