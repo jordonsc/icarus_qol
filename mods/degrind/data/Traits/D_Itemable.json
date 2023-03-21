@@ -15,6 +15,14 @@
         {
             "Name": "Item_Blood_Thinning_Pill",
             "Weight": 25
+        },
+        {
+            "Name": "Item_Steel_Screw",
+            "MaxStack": 500
+        },
+        {
+            "Name": "Item_Steel_Rebar",
+            "MaxStack": 200
         }
     ]
 }

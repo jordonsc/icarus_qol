@@ -1,0 +1,18 @@
+{
+    "Rows": [
+        {
+            "Name": "Saddle_Cargo",
+            "GrantedStats": {
+                "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+            }
+        },
+        {
+            "Name": "Saddle_Cart",
+            "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier_Saddle.BP_EquippableModifier_Saddle_C",
+            "GrantedStats": {
+                "(Value=\"IsSaddleCargoUseOnly_?\")": 0,
+                "(Value=\"BaseMovementSpeed_+\")": 0
+            }
+        }
+    ]
+}

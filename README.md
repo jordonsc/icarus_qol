@@ -31,12 +31,13 @@ To build just the `degrind` mod:
 * Concrete mix now outputs 5 units
 * Steel Rebar now outputs 25 units
 * Electronics now outputs 5 units
-* Epoxy (bone) now requires only 2 Crushed Bones
+* Epoxy (bone) now requires only 1 Crushed Bone
 * Crushed Bone now requires only 1 Bone
 * All tea/coffee drinks now only need 5 leaves
 * Portable Beacon no longer requires composites, all other requirements set to 2 items, now crafted on Machining Bench
 * Added a Workshop Repair Kit recipe for on-world Workshop item repairs, requires 5 composites and 5 carbon fiber,
   crafted at the Fabricator
+* Added a Rope recipe from Fur, similar to the Leather recipe
 
 ### Items:
 
@@ -44,11 +45,19 @@ To build just the `degrind` mod:
 * Biofuel/Electric Extractor no longer a backpack item
 * Reduced pill weight to 25g
 * Increased all tonic durations to 900s
+* Steel Screw stack size increased to 500
+* Steel Rebar stack size increased to 200
+* T4 Armor provide movement speed boost stats, totalling in +50% movement speed
 
 ### Talents:
 
-* Lucky Strike (insta-mining) probability increased to 10%
-* Peerless Lumberjack (insta-tree) probability increased to 25%
+* Lucky Strike (insta-mining) probability increased to 5%/15%/25% depending on talent rank
+* Peerless Lumberjack (insta-tree) probability increased to 5%/15%/25% depending on talent rank
+
+### Mounts:
+
+* Buffalo is now rideable when it has a Cargo Saddle or Cart attached
+* Buffalo stamina regen increased 300%
 
 Energy
 ------

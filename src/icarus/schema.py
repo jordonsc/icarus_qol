@@ -25,7 +25,7 @@ def merge(schema: dict, key, value):
 
     Typically called inside of `merge_xxx()`
     """
-    if key in noindex_fields:
+    if key in noindex_fields or key not in schema:
         schema[key] = value
     elif isinstance(value, list):
         merge_list(schema[key], value)

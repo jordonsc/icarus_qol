@@ -51,6 +51,48 @@
                     }
                 ]
             }
+        },
+        {
+            "Name": "Composite_Head",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Composite_Chest",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Composite_Arms",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Composite_Legs",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 25
+            }
+        },
+        {
+            "Name": "Composite_Feet",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 10
+            }
+        },
+        {
+            "Name": "Saddle_Cart",
+            "AdditionalStats": {
+                "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+            }
+        },
+        {
+            "Name": "Saddle_Standard_Bag",
+            "AdditionalStats": {
+                "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+            }
         }
     ]
 }

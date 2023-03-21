@@ -1,0 +1,10 @@
+{
+    "Rows": [
+        {
+            "Name": "Mount_Buffalo",
+            "Base": {
+                "(Value=\"BaseStaminaRegenPerMinute_+\")": 4800
+            }
+        }
+    ]
+}

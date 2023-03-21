@@ -183,7 +183,7 @@
                     "Element": {
                         "RowName": "Crushed_Bone"
                     },
-                    "Count": 2
+                    "Count": 1
                 }
             ]
         },
@@ -295,6 +295,47 @@
             ],
             "Audio": {
                 "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Fur_Rope",
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "ArmorBench"
             }
         }
     ]
