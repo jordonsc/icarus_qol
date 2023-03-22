@@ -1,0 +1,54 @@
+{
+    "Defaults": {
+        "MiningTimeSeconds": 30
+    },
+    "Rows": [
+        {
+            "Name": "Random",
+            "MinOreAvailable": 50000,
+            "MaxOreAvailable": 50000
+        },
+        {
+            "Name": "Iron",
+            "MinOreAvailable": 45000,
+            "MaxOreAvailable": 55000,
+            "MiningTimeSeconds": 25
+        },
+        {
+            "Name": "Gold",
+            "MinOreAvailable": 40000,
+            "MaxOreAvailable": 60000,
+            "MiningTimeSeconds": 40
+        },
+        {
+            "Name": "Copper",
+            "MinOreAvailable": 45000,
+            "MaxOreAvailable": 55000,
+            "MiningTimeSeconds": 25
+        },
+        {
+            "Name": "Silicon",
+            "MinOreAvailable": 45000,
+            "MaxOreAvailable": 55000,
+            "MiningTimeSeconds": 25
+        },
+        {
+            "Name": "Coal",
+            "MinOreAvailable": 50000,
+            "MaxOreAvailable": 60000,
+            "MiningTimeSeconds": 25
+        },
+        {
+            "Name": "Sulfur",
+            "MinOreAvailable": 45000,
+            "MaxOreAvailable": 55000,
+            "MiningTimeSeconds": 25
+        },
+        {
+            "Name": "Aluminium",
+            "MinOreAvailable": 40000,
+            "MaxOreAvailable": 60000,
+            "MiningTimeSeconds": 35
+        }
+    ]
+}

@@ -54,10 +54,10 @@ To build just the `degrind` mod:
 * Lucky Strike (insta-mining) probability increased to 5%/15%/25% depending on talent rank
 * Peerless Lumberjack (insta-tree) probability increased to 5%/15%/25% depending on talent rank
 
-### Mounts:
+### World:
 
-* Buffalo is now rideable when it has a Cargo Saddle or Cart attached
-* Buffalo stamina regen increased 300%
+* Increased ore deposit min/max volumes by 10x
+* Reduced ore deposit mining time by half
 
 Energy
 ------
@@ -95,6 +95,18 @@ The _Food_ mod tidies up some quirks in the kitchen.
 
 * Deep Freeze capacity doubled
 
+Mounts
+------
+The _Mounts_ mod is aimed at making transport less vexing.
+
+    ./compile mounts
+
+### Mounts:
+
+* Buffalo is now rideable when it has a Cargo Saddle or Cart attached
+* Buffalo cart speed debuff removed
+* Buffalo stamina regen increased 300%
+
 Compiling Mods
 ==============
 Preparing Source Content
@@ -123,8 +135,7 @@ there are no conflicts in included mods.
     ./compile
 
     # Equiv. to
-    ./compile degrind energy food
-
+    ./compile degrind energy food mounts
 
 This will create a `data` directory in the `build` directory, use this to repack your mod `pak` file.
 

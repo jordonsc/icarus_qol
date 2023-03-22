@@ -81,18 +81,6 @@
             "AdditionalStats": {
                 "(Value=\"BaseMovementSpeed_+\")": 10
             }
-        },
-        {
-            "Name": "Saddle_Cart",
-            "AdditionalStats": {
-                "(Value=\"IsSaddleCargoUseOnly_?\")": 0
-            }
-        },
-        {
-            "Name": "Saddle_Standard_Bag",
-            "AdditionalStats": {
-                "(Value=\"IsSaddleCargoUseOnly_?\")": 0
-            }
         }
     ]
 }
