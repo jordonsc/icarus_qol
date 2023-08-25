@@ -34,7 +34,6 @@ To build just the `degrind` mod:
 * Epoxy (bone) now requires only 1 Crushed Bone
 * Crushed Bone now requires only 1 Bone
 * All tea/coffee drinks now only need 5 leaves
-* Portable Beacon no longer requires composites, all other requirements set to 2 items, now crafted on Machining Bench
 * Added a Workshop Repair Kit recipe for on-world Workshop item repairs, requires 5 composites and 5 carbon fiber,
   crafted at the Fabricator
 * Added a Rope recipe from Fur, similar to the Leather recipe
@@ -113,7 +112,7 @@ Preparing Source Content
 ------------------------
 First, you'll need the _UnrealPak_ tool to extract and repack the Unreal Engine `pak` files. The Icarus modding
 community has created an archive of the best version with helpers
-[here](https://drive.google.com/file/d/1Jf8YNuBSKgXsTjZpyAzjnWkeYzDQ_Zzq/view).
+[here](https://drive.google.com/file/d/1f8J_2A0GgDIAU6Ekq7Ef6GELnpHpK8wT/view?usp=sharing).
 
 Start by extracting the latest content from the game's `data.pak`:
 

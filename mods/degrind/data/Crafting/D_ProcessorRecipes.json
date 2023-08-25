@@ -12,17 +12,6 @@
             ]
         },
         {
-            "Name": "Stone_Beam",
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Leather"
-                    },
-                    "Count": 1
-                }
-            ]
-        },
-        {
             "Name": "Stone_Floor",
             "Inputs": [
                 {
@@ -211,51 +200,6 @@
             "Audio": {
                 "RowName": "MortarPestle"
             }
-        },
-        {
-            "Name": "Portable_Beacon",
-            "RecipeSets": [
-                {
-                    "RowName": "Fabricator",
-                    "~delete": true
-                },
-                {
-                    "RowName": "Machining_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Composites"
-                    },
-                    "~delete": true
-                },
-                {
-                    "Element": {
-                        "RowName": "Glass"
-                    },
-                    "Count": 2
-                },
-                {
-                    "Element": {
-                        "RowName": "Electronics"
-                    },
-                    "Count": 2
-                },
-                {
-                    "Element": {
-                        "RowName": "Steel_Screw"
-                    },
-                    "Count": 2
-                },
-                {
-                    "Element": {
-                        "RowName": "Refined_Copper"
-                    },
-                    "Count": 2
-                }
-            ]
         },
         {
             "Name": "Workshop_Repair_Item",
