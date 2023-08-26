@@ -5,19 +5,19 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 5
-                    },
-                    "GrantedFlags": []
-                },
-                {
-                    "GrantedStats": {
-                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 15
-                    },
-                    "GrantedFlags": []
-                },
-                {
-                    "GrantedStats": {
                         "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 25
+                    },
+                    "GrantedFlags": []
+                },
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 35
+                    },
+                    "GrantedFlags": []
+                },
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 45
                     },
                     "GrantedFlags": []
                 }
@@ -28,19 +28,19 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 5
-                    },
-                    "GrantedFlags": []
-                },
-                {
-                    "GrantedStats": {
-                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 15
-                    },
-                    "GrantedFlags": []
-                },
-                {
-                    "GrantedStats": {
                         "(Value=\"BaseChanceToFellTreeInstantly_%\")": 25
+                    },
+                    "GrantedFlags": []
+                },
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 35
+                    },
+                    "GrantedFlags": []
+                },
+                {
+                    "GrantedStats": {
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 45
                     },
                     "GrantedFlags": []
                 }
