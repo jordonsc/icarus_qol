@@ -3,7 +3,16 @@
         {
             "Name": "Mount_Buffalo",
             "Base": {
-                "(Value=\"BaseStaminaRegenPerMinute_+\")": 4800
+                "(Value=\"BaseStaminaRegenPerMinute_+\")": 4800,
+                "(Value=\"BaseMaximumStamina_+\")": 800
+            }
+        },
+        {
+            "Name": "Mount_Moa",
+            "Base": {
+                "(Value=\"BaseStaminaRegenPerMinute_+\")": 5200,
+                "(Value=\"BaseMaximumStamina_+\")": 900,
+                "(Value=\"BaseMovementSpeed_+\")": 250
             }
         }
     ]
