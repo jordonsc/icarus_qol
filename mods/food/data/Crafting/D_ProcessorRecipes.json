@@ -60,6 +60,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ]
         },
@@ -72,6 +84,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ]
@@ -86,6 +110,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ]
         },
@@ -98,6 +134,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ]
@@ -112,6 +160,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ]
         },
@@ -125,6 +185,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ]
         },
@@ -137,6 +209,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ]
@@ -397,6 +481,23 @@
         },
         {
             "Name": "Raw_Meat_Steak",
+            "RecipeSets": [
+                {
+                    "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ]
+        },
+        {
+            "Name": "Animal_Fat",
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
