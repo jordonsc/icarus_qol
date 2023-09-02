@@ -315,6 +315,40 @@
                     "DataTableName": "D_RecipeSets"
                 }
             ]
+        },
+        {
+            "Name": "Basic_Wall_Light",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Refined_Metal"
+                    },
+                    "Count": 2
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire"
+                    },
+                    "Count": 20
+                }
+            ]
+        },
+        {
+            "Name": "Basic_Ceiling_Light",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Refined_Metal"
+                    },
+                    "Count": 2
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire"
+                    },
+                    "Count": 20
+                }
+            ]
         }
     ]
 }

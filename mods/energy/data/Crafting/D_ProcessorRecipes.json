@@ -24,33 +24,50 @@
             ]
         },
         {
-            "Name": "Biofuel1a",
-            "RecipeSets": [
-                {
-                    "RowName": "Composter",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
+            "Name": "Biofuel5",
             "Inputs": [
                 {
                     "Element": {
-                        "RowName": "Spoiled_Meat",
-                        "DataTableName": "D_ItemsStatic"
+                        "RowName": "Cooked_Meat"
                     },
-                    "Count": 1,
-                    "DynamicProperties": []
+                    "Count": 1
+                },
+                {
+                    "Element": {
+                        "RowName": "Tree_Sap"
+                    },
+                    "~delete": true
                 }
             ],
-            "Outputs": [],
             "ResourceOutputs": [
                 {
                     "Type": "Fuel",
                     "RequiredUnits": 500
                 }
+            ]
+        },
+        {
+            "Name": "Biofuel6",
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Spoiled_Meat"
+                    },
+                    "Count": 1
+                },
+                {
+                    "Element": {
+                        "RowName": "Tree_Sap"
+                    },
+                    "~delete": true
+                }
             ],
-            "Audio": {
-                "RowName": "Composter"
-            }
+            "ResourceOutputs": [
+                {
+                    "Type": "Fuel",
+                    "RequiredUnits": 500
+                }
+            ]
         }
     ]
 }

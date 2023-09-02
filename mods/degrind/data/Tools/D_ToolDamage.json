@@ -1,0 +1,60 @@
+{
+    "Rows": [
+        {
+            "Name": "Stone_Pickaxe",
+            "Mining_Radius": 55
+        },
+        {
+            "Name": "Meta_Pickaxe_Printed",
+            "Mining_Radius": 70
+        },
+        {
+            "Name": "Metal_Pickaxe",
+            "Mining_Radius": 70
+        },
+        {
+            "Name": "Obsidian_Pickaxe",
+            "Mining_Radius": 100
+        },
+        {
+            "Name": "Meta_Pickaxe_Shengong",
+            "Mining_Radius": 75
+        },
+        {
+            "Name": "Meta_Pickaxe_Inaris",
+            "Mining_Radius": 75
+        },
+        {
+            "Name": "Steel_Pickaxe",
+            "Mining_Radius": 85
+        },
+        {
+            "Name": "Platnium_Pickaxe",
+            "Mining_Radius": 100
+        },
+        {
+            "Name": "Cold_Steel_Pickaxe",
+            "Mining_Radius": 100
+        },
+        {
+            "Name": "Meta_Pickaxe_Larkwell",
+            "Mining_Radius": 100
+        },
+        {
+            "Name": "Meta_Pickaxe_Shengong_Echo",
+            "Mining_Radius": 100
+        },
+        {
+            "Name": "Titanium_Pickaxe",
+            "Mining_Radius": 115
+        },
+        {
+            "Name": "Iron_Wood_Pickaxe",
+            "Mining_Radius": 125
+        },
+        {
+            "Name": "Meta_Pickaxe",
+            "Mining_Radius": 100
+        }
+    ]
+}

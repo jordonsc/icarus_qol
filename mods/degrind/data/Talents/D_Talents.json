@@ -11,13 +11,13 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 35
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 37
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 45
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 50
                     },
                     "GrantedFlags": []
                 }
@@ -34,13 +34,13 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 35
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 37
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 45
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 50
                     },
                     "GrantedFlags": []
                 }

@@ -37,6 +37,7 @@ To build just the `degrind` mod:
 * Added a Workshop Repair Kit recipe for on-world Workshop item repairs, requires 5 composites and 5 carbon fiber,
   crafted at the Fabricator
 * Added a Rope recipe from Fur, similar to the Leather recipe
+* Basic lights only require 2 Iron
 
 ### Items:
 
@@ -46,12 +47,14 @@ To build just the `degrind` mod:
 * Increased all tonic durations to 900s
 * Steel Screw stack size increased to 500
 * Steel Rebar stack size increased to 200
-* T4 Armor provide movement speed boost stats, totalling in +50% movement speed
+* T4 Armor (composite, obsidian) provide movement speed boost stats, totalling in +50% movement speed
+* All pickaxes now have increased mining radius
+* _New Frontiers_ pickaxes are now on-par with a Platinum Pickaxe
 
 ### Talents:
 
-* Lucky Strike (insta-mining) probability increased to 5%/15%/25% depending on talent rank
-* Peerless Lumberjack (insta-tree) probability increased to 5%/15%/25% depending on talent rank
+* Lucky Strike (insta-mining) probability increased to 25%/37%/50% depending on talent rank
+* Peerless Lumberjack (insta-tree) probability increased to 25%/37%/50% depending on talent rank
 
 ### World:
 
@@ -87,7 +90,7 @@ The _Food_ mod tidies up some quirks in the kitchen.
 ### Recipes:
 
 * Raw Meat can now also be crafted at the Kitchen Bench
-* Pills can now also be crafted at the Advanced Kitchen Bench
+* Tonics & Pills can now also be crafted at the Advanced Kitchen Bench
 * Cooked Meats can now be crafted at all stoves
 
 ### Items:

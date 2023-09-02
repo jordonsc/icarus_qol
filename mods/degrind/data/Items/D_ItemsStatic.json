@@ -81,6 +81,66 @@
             "AdditionalStats": {
                 "(Value=\"BaseMovementSpeed_+\")": 10
             }
+        },
+        {
+            "Name": "Heavy_Obsidian_Head",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Heavy_Obsidian_Chest",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Heavy_Obsidian_Arms",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Heavy_Obsidian_Legs",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 25
+            }
+        },
+        {
+            "Name": "Heavy_Obsidian_Feet",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 10
+            }
+        },
+        {
+            "Name": "Obsidian_Head",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Obsidian_Chest",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Obsidian_Arms",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 5
+            }
+        },
+        {
+            "Name": "Obsidian_Legs",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 25
+            }
+        },
+        {
+            "Name": "Obsidian_Feet",
+            "AdditionalStats": {
+                "(Value=\"BaseMovementSpeed_+\")": 10
+            }
         }
     ]
 }
