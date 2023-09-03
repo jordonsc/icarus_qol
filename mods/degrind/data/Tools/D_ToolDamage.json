@@ -13,10 +13,6 @@
             "Mining_Radius": 70
         },
         {
-            "Name": "Obsidian_Pickaxe",
-            "Mining_Radius": 100
-        },
-        {
             "Name": "Meta_Pickaxe_Shengong",
             "Mining_Radius": 75
         },
@@ -37,20 +33,26 @@
             "Mining_Radius": 100
         },
         {
+            "Name": "Obsidian_Pickaxe",
+            "Mining_Radius": 100
+        },
+        {
+            "Name": "Titanium_Pickaxe",
+            "Mining_Radius": 115,
+            "Mining_Efficiency": 1.5
+        },
+        {
+            "Name": "Iron_Wood_Pickaxe",
+            "Mining_Radius": 130,
+            "Mining_Efficiency": 1.8
+        },
+        {
             "Name": "Meta_Pickaxe_Larkwell",
             "Mining_Radius": 100
         },
         {
             "Name": "Meta_Pickaxe_Shengong_Echo",
             "Mining_Radius": 100
-        },
-        {
-            "Name": "Titanium_Pickaxe",
-            "Mining_Radius": 115
-        },
-        {
-            "Name": "Iron_Wood_Pickaxe",
-            "Mining_Radius": 125
         },
         {
             "Name": "Meta_Pickaxe",

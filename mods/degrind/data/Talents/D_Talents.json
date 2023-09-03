@@ -5,19 +5,19 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 25
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 37
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 10
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 50
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 15
                     },
                     "GrantedFlags": []
                 }

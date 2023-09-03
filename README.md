@@ -13,6 +13,22 @@ Among the changes, two are key:
 * Added the ability to craft _Workshop Repair Kits_ on-world, allowing you to maintain workshop items without spending
   mission credits or leaving the planet
 
+New Frontiers Changes
+=====================
+_New Frontiers_ adds new tools providing curious perks, but otherwise aims not to make anything better than the core
+game. Notably, the expansion also requires you to visit new biomes in order to expand.
+
+The _Cold Steel Pickaxe_ creates an ore that provides the ores of other biomes, which negates the core tenant of the
+_New Frontiers_ need to explore. As such, changes have been made (in the Degrind mod) to re-balance this:
+
+* Frozen Ore no longer provides special ores (forcing exploration into other biomes)
+* Cold Steel and Obsidian tools are equal to Platinum tools
+* The Miasmic tools are more expensive and now require ores of all biomes, but are also buffed to be the best possible
+  tools you can acquire
+* Negative buffs removed from Miasmic tools
+
+The aim here is that you now have a top-tier tool that required effort to acquire, and has a reward in kind. 
+
 Degrind
 -------
 The _Degrind_ mod is designed to speed-up gameplay & remove excessive tedious elements. Notable focal points of this
@@ -38,6 +54,9 @@ To build just the `degrind` mod:
   crafted at the Fabricator
 * Added a Rope recipe from Fur, similar to the Leather recipe
 * Basic lights only require 2 Iron
+* Frozen Ore no longer provides Super Cooled Ice, Obsidian or Scoria, but will produce more Iron & Copper
+* Miasmic tools now require Cold Steel and Obsidian, and more Distilled Miasma
+* Added perks to Miasmic tools
 
 ### Items:
 
@@ -49,11 +68,10 @@ To build just the `degrind` mod:
 * Steel Rebar stack size increased to 200
 * T4 Armor (composite, obsidian) provide movement speed boost stats, totalling in +50% movement speed
 * All pickaxes now have increased mining radius
-* _New Frontiers_ pickaxes are now on-par with a Platinum Pickaxe
 
 ### Talents:
 
-* Lucky Strike (insta-mining) probability increased to 25%/37%/50% depending on talent rank
+* Lucky Strike (insta-mining) probability increased to 5%/10%/15% depending on talent rank
 * Peerless Lumberjack (insta-tree) probability increased to 25%/37%/50% depending on talent rank
 
 ### World:
@@ -92,6 +110,7 @@ The _Food_ mod tidies up some quirks in the kitchen.
 * Raw Meat can now also be crafted at the Kitchen Bench
 * Tonics & Pills can now also be crafted at the Advanced Kitchen Bench
 * Cooked Meats can now be crafted at all stoves
+* Coffee/Tea can now be crafted at all stoves
 
 ### Items:
 
