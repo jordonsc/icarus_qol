@@ -11,6 +11,10 @@
         {
             "Name": "Generator",
             "ResourceFlowRate": 15000
+        },
+        {
+            "Name": "WindTurbine",
+            "ResourceFlowRate": 5000
         }
     ]
 }

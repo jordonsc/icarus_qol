@@ -63,9 +63,8 @@ To build just the `degrind` mod:
 
 Energy
 ------
-The _Energy_ mod is designed to address the lack of batteries, allowing you to still maintain a decent power grid at
-T4. These are intended to be temporary, they're certainly hacks but at current the power grid requires _all_ devices
-turned on at once, and there is no way to store power.
+The _Energy_ mod is designed to address the lack of batteries and the requirement that nearly everything is ALWAYS ON.
+This mod makes biofuel easier to produce and increases the output of generators.
 
     ./compile energy
 
@@ -78,7 +77,8 @@ turned on at once, and there is no way to store power.
 
 * Removed the clogging mechanic from Water Wheels
 * Increased Water Wheel power output to 5,000
-* Increased Solar Power output to 10,000
+* Increased Solar power output to 10,000
+* Increased Wind Turbine power output to 5,000
 * Increased Generator output to 15,000
 
 Food

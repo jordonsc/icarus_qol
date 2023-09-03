@@ -11,6 +11,10 @@
         {
             "Name": "WaterWheel_Generator",
             "GenerationRate": 5000
+        },
+        {
+            "Name": "WindTurbine",
+            "GenerationRate": 5000
         }
     ]
 }
