@@ -43,7 +43,7 @@
         },
         {
             "Name": "Iron_Wood_Pickaxe",
-            "Mining_Radius": 130,
+            "Mining_Radius": 125,
             "Mining_Efficiency": 1.8
         },
         {

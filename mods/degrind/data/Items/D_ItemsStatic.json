@@ -145,32 +145,14 @@
         {
             "Name": "Iron_Wood_Axe",
             "AdditionalStats": {
-                "(Value=\"BaseFellingRewards_%\")": 0,
-                "(Value=\"BaseInfectedBarkPerWoodChopped_%\")": 0,
                 "(Value=\"AutomaticWoodCollectionOnHarvest_?\")": true
             }
         },
         {
             "Name": "Iron_Wood_Pickaxe",
             "AdditionalStats": {
-                "(Value=\"BaseMiningRewards_+%\")": 0,
-                "(Value=\"BasePyriticCrustPerMinedResource_%\")": 0,
                 "(Value=\"BaseFinalHitVoxelResource_+%\")": 25,
                 "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 25
-            }
-        },
-        {
-            "Name": "Iron_Wood_Knife",
-            "AdditionalStats": {
-                "(Value=\"BaseSkinningRewards_%\")": 0,
-                "(Value=\"BaseAcidicGlandsPerSkinnedResource_%\")": 0
-            }
-        },
-        {
-            "Name": "Iron_Wood_Sledgehammer",
-            "AdditionalStats": {
-                "(Value=\"BaseShatteringRewards_%\")": 0,
-                "(Value=\"BasePyriticCrustPerMinedResource_%\")": 0
             }
         }
     ]

@@ -358,7 +358,7 @@
                         "RowName": "Metal_Ore",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 15,
                     "DynamicProperties": []
                 },
                 {
@@ -436,89 +436,6 @@
                     "RowName": "NewFrontiers"
                 }
             }
-        },
-        {
-            "Name": "Iron_Wood_Pickaxe",
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Refined_Iron_Wood"
-                    },
-                    "Count": 30
-                },
-                {
-                    "Element": {
-                        "RowName": "Cold_Steel_Ingot",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 6,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Shaped_Obsidian",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 6,
-                    "DynamicProperties": []
-                }
-            ]
-        },
-        {
-            "Name": "Iron_Wood_Axe",
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Refined_Iron_Wood"
-                    },
-                    "Count": 30
-                },
-                {
-                    "Element": {
-                        "RowName": "Cold_Steel_Ingot",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 6,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Shaped_Obsidian",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 6,
-                    "DynamicProperties": []
-                }
-            ]
-        },
-        {
-            "Name": "Iron_Wood_Knife",
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Refined_Iron_Wood",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 15,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Cold_Steel_Ingot",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 4,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Shaped_Obsidian",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 4,
-                    "DynamicProperties": []
-                }
-            ]
         }
     ]
 }

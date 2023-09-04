@@ -23,6 +23,15 @@
             "Modifier": {
                 "ModifierLifetime": 900
             }
+        },
+        {
+            "Name": "Antipoison_Pill",
+            "Modifier": {
+                "Modifier": {
+                    "RowName": "Antipoison_Pill"
+                },
+                "ModifierLifetime": 600
+            }
         }
     ]
 }

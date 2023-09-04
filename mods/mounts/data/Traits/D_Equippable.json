@@ -1,17 +1,30 @@
 {
     "Rows": [
         {
+            "Name": "Saddle_Standard",
+            "GrantedStats": {
+                "(Value=\"BaseMountCargoSlots_+\")": 20,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 1,
+                "(Value=\"BaseWeightCapacity_+\")": 300
+            }
+        },
+        {
             "Name": "Saddle_Cargo",
             "GrantedStats": {
-                "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+                "(Value=\"BaseMountCargoSlots_+\")": 40,
+                "(Value=\"IsSaddleCargoUseOnly_?\")": 1,
+                "(Value=\"BaseWeightCapacity_+\")": 600,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 2
             }
         },
         {
             "Name": "Saddle_Cart",
-            "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier_Saddle.BP_EquippableModifier_Saddle_C",
             "GrantedStats": {
-                "(Value=\"IsSaddleCargoUseOnly_?\")": 0,
-                "(Value=\"BaseMovementSpeed_+\")": 0
+                "(Value=\"BaseMountCargoSlots_+\")": 100,
+                "(Value=\"IsSaddleCargoUseOnly_?\")": 1,
+                "(Value=\"BaseWeightCapacity_+\")": 1500,
+                "(Value=\"BaseMovementSpeed_+\")": 0,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 5
             }
         }
     ]

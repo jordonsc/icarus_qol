@@ -23,6 +23,10 @@
         {
             "Name": "Item_Steel_Rebar",
             "MaxStack": 200
+        },
+        {
+            "Name": "Item_Animal_Fat",
+            "MaxStack": 100
         }
     ]
 }

@@ -23,11 +23,7 @@ _New Frontiers_ need to explore. As such, changes have been made (in the Degrind
 
 * Frozen Ore no longer provides special ores (forcing exploration into other biomes)
 * Cold Steel and Obsidian tools are equal to Platinum tools
-* The Miasmic tools are more expensive and now require ores of all biomes, but are also buffed to be the best possible
-  tools you can acquire
-* Negative buffs removed from Miasmic tools
-
-The aim here is that you now have a top-tier tool that required effort to acquire, and has a reward in kind. 
+* The Miasmic Pickaxe is now (by far) the most efficient pickaxe, but only once the noxious crust is cleansed
 
 Degrind
 -------
@@ -55,8 +51,6 @@ To build just the `degrind` mod:
 * Added a Rope recipe from Fur, similar to the Leather recipe
 * Basic lights only require 2 Iron
 * Frozen Ore no longer provides Super Cooled Ice, Obsidian or Scoria, but will produce more Iron & Copper
-* Miasmic tools now require Cold Steel and Obsidian, and more Distilled Miasma
-* Added perks to Miasmic tools
 
 ### Items:
 
@@ -66,8 +60,10 @@ To build just the `degrind` mod:
 * Increased all tonic durations to 900s
 * Steel Screw stack size increased to 500
 * Steel Rebar stack size increased to 200
+* Animal Fat stack size increased to 100
 * T4 Armor (composite, obsidian) provide movement speed boost stats, totalling in +50% movement speed
 * All pickaxes now have increased mining radius
+* Added harvesting perks to Miasmic Pickaxe & Miasmic Axe
 
 ### Talents:
 
@@ -127,6 +123,7 @@ The _Mounts_ mod is aimed at making transport less vexing.
 * Buffalo is now rideable when it has a Cargo Saddle or Cart attached
 * Buffalo cart speed debuff removed
 * Buffalo stamina regen increased 300%
+* Increased cargo slots of all saddles (intended to aid in carrying of miasmics)
 
 Compiling Mods
 ==============
