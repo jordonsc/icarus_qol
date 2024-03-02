@@ -1,0 +1,3 @@
+#!/bin/env bash
+
+rm -rf /mnt/vm_shared/data && cp -R /home/jordonsc/repos/jordonsc/icarus-qol/build/data/ /mnt/vm_shared/

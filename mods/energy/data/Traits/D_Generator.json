@@ -1,20 +1,4 @@
 {
     "Rows": [
-        {
-            "Name": "Kit_Generator_Energy_Generator",
-            "GenerationRate": 15000
-        },
-        {
-            "Name": "SolarPanel_Generator",
-            "GenerationRate": 10000
-        },
-        {
-            "Name": "WaterWheel_Generator",
-            "GenerationRate": 5000
-        },
-        {
-            "Name": "WindTurbine",
-            "GenerationRate": 5000
-        }
     ]
 }

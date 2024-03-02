@@ -1,10 +1,4 @@
 {
     "Rows": [
-        {
-            "Name": "WaterWheel_Generator",
-            "Inventory": {
-                "~delete": true
-            }
-        }
     ]
 }

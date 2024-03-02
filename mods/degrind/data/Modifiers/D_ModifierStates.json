@@ -1,0 +1,13 @@
+{
+    "Rows": [
+        {
+            "Name": "Carrying_Miasmic_Items",
+            "ModifierVariables": {
+                "Damage": {
+                    "BaseValue": 2,
+                    "Deviation": 1
+                }
+            }
+        }
+    ]
+}

@@ -143,13 +143,13 @@
             }
         },
         {
-            "Name": "Iron_Wood_Axe",
+            "Name": "Titanium_Axe",
             "AdditionalStats": {
                 "(Value=\"AutomaticWoodCollectionOnHarvest_?\")": true
             }
         },
         {
-            "Name": "Iron_Wood_Pickaxe",
+            "Name": "Titanium_Pickaxe",
             "AdditionalStats": {
                 "(Value=\"BaseFinalHitVoxelResource_+%\")": 25,
                 "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 25

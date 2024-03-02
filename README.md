@@ -63,7 +63,6 @@ To build just the `degrind` mod:
 * Animal Fat stack size increased to 100
 * T4 Armor (composite, obsidian) provide movement speed boost stats, totalling in +50% movement speed
 * All pickaxes now have increased mining radius
-* Added harvesting perks to Miasmic Pickaxe & Miasmic Axe
 
 ### Talents:
 
@@ -167,3 +166,8 @@ modifications to the game.
 * move it to the Icarus mods folder: `Steam\steamapps\common\Icarus\Icarus\Content\Paks\mods`
 
 Launch the game!
+
+VM Shared Folders Helpers
+-------------------------
+These helpers are assuming you're using an Linux VM guest under a Windows VM host. If you have a VMWare shared folder 
+named `vm_shared`, use `./vm_mount` to mount it to `/mnt/vm_shared` and `./vm_export` to copy your build pak there.
